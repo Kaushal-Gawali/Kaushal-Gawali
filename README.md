@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Real-time Emotion Recognition System from speech**
 
-- 🌱 I’m currently learning **React JS, Data Structures and Algorithms**
+- 🌱 I’m currently learning **Cyber Security, Data Structures and Algorithms**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development, Software Development, Cyber Security**
 
 - 📫 How to reach me **gawalikaushal7@gmail.com**
 
