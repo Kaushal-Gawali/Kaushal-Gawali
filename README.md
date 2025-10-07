@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushal Gawali</h1>
-<h3 align="center">A passionate frontend developer and Software engineer from India</h3>
+<h3 align="center">A passionate Java Full Stack developer and Software engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushal-gawali&label=Profile%20views&color=0e75b6&style=flat" alt="kaushal-gawali" /> </p>
@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Real-time Emotion Recognition System from speech**
 
-- 🌱 I’m currently learning **Cyber Security, Data Structures and Algorithms**
+- 🌱 I’m currently learning **Java Full Stack Development, Data Structures and Algorithms and System Design**
 
-- 💬 Ask me about **Web Development, Software Development, Cyber Security**
+- 💬 Ask me about **Java Full Stack Development, Software Development, Cyber Security**
 
 - 📫 How to reach me **gawalikaushal7@gmail.com**
 
